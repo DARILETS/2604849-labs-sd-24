@@ -1,0 +1,126 @@
+body {
+    margin: 0;
+    /* font-family: Arial, sans-serif; */
+}
+
+header {
+    background-color: #333;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+}
+header h1{
+    margin-left: 60px;
+    margin-bottom: 15px;
+    
+}
+header nav{
+    margin: 0;
+}
+
+header nav .top_nav h4{
+    margin-top: 0px;
+    margin-left: 25px;
+}
+
+
+
+nav {
+    display: flex;
+    justify-content: flex-end;
+    margin: 0px;
+    padding-right: 200px;
+    align-items: center;
+    
+}
+
+.top_nav{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+
+nav h4 {
+    margin: 0;
+}
+
+
+.About_Us {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    padding: 20px;
+}
+.About_Us h2{
+    margin: 0px;
+}
+
+.About_Us p{
+    margin: 0px;
+}
+.About_Us img {
+    max-width: 100%;
+    height: auto;
+    margin: 0px;
+}
+.vibes h2{
+    text-align: center;
+    margin-bottom: 0px;
+}
+
+.Our_Services {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    padding: 20px;
+    padding-top: 0px;
+    text-align: center;
+}
+
+.Web_Development{
+    border: 1px solid #D3D3D3;
+}
+
+.Graphic_Design{
+    border: 1px solid #D3D3D3;
+}
+
+.Web_Development img{
+    margin: 10px;
+    margin-top: 0px;
+}
+
+.Graphic_Design img{
+    margin: 10px;
+    margin-top: 0px;
+}
+
+.Web_Development h2{
+    margin: 0px;
+}
+
+.Graphic_Design h2{
+    margin: 0px;
+}
+
+.Web_Development p{
+    margin: 0px;
+}
+
+.Graphic_Design p{
+    margin: 0px;
+}
+
+
+footer {
+    justify-content: center;
+    padding: 0px;
+    background-color: #333;
+    color: white;
+    display: flex;
+}
